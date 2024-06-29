@@ -39,7 +39,6 @@ const Features = () => {
         <div className='flex flex-col justify-center items-center overflow-hidden'>
           <div className='mt-32 mb-24 pl-24'>
             <h2 className='text-5xl  lg:text-7xl'>Iphone</h2>
-            <h2 className='text-5xl  lg:text-7xl'>Forged in ti titanium</h2>
           </div>
 
           <div className='flex items-center justify-center flex-col sm:px-10'>
